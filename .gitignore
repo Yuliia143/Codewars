@@ -2,6 +2,7 @@
 node_modules/
 .idea/
 dist/
+src/
 package.json
 package-lock.json
 webpack.config.js

@@ -1,6 +1,11 @@
 # Created by .ignore support plugin (hsz.mobi)
-./node_modules
-./package.json
-./package-lock.json
-./webpack.config.js
-./.gitignore
+node_modules/
+.idea/
+dist/
+package.json
+package-lock.json
+webpack.config.js
+index.html
+.babelrc
+.gitignore
+
